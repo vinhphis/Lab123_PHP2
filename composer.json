@@ -1,0 +1,16 @@
+{
+    "name": "vinhphis/lab123",
+    "description": "lab123",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vinhphis\\Lab123\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vinhphis"
+        }
+    ],
+    "require": {}
+}
